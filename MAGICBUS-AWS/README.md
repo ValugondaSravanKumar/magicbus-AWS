@@ -1,1 +1,1 @@
-# magicbus-AWS
+# AWS-Project (Magic bus)
